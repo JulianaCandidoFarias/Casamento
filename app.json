@@ -1,5 +1,9 @@
 {
   "expo": {
+    
+    "experiments": {
+      "baseUrl": "/Casamento"
+    },
     "name": "Casamento",
     "slug": "Casamento",
     "version": "1.0.0",
@@ -24,8 +28,7 @@
       "predictiveBackGestureEnabled": false
     },
     "web": {
-      "favicon": "./assets/favicon.png",
-      "baseUrl": "/nome-do-seu-repositorio"
+      "favicon": "./assets/favicon.png"
     }
   }
 }
