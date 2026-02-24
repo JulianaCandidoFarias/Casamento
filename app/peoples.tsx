@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
     marginTop: 25,
     marginHorizontal: 25,
     flex: 1,
-    backgroundColor: '#ffffff'
+    backgroundColor: '#d36d6d'
   },
   TopNavigation: {
     marginTop: 25,

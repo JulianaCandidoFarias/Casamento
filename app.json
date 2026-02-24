@@ -1,6 +1,5 @@
 {
   "expo": {
-
     "name": "Casamento",
     "slug": "Casamento",
     "scheme": "Casamento",
@@ -27,6 +26,8 @@
     },
     "web": {
       "bundler": "metro",
+      "output": "static",
+      "baseUrl": "/Casamento",
       "favicon": "./assets/favicon.png"
     },
     "plugins": [

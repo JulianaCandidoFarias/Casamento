@@ -3,8 +3,10 @@ import { NavigationButton } from "../components/NavigationButton";
 import { Link } from "expo-router";
 
 
+
 export default function Page() {
   return (
+
     <View style = { styles.backGround } >
       <View style = { styles.TopNavigation } >
 
@@ -25,6 +27,7 @@ export default function Page() {
 
       </View>
     </View>
+
   );
 }
 
@@ -43,7 +46,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#ffffff'
   },
   TopNavigation: {
-    marginTop: 25,
+    marginTop: 30,
     marginHorizontal: 25,
     flexDirection: 'row',
     justifyContent: 'space-between'
