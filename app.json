@@ -1,8 +1,6 @@
 {
   "expo": {
-    "experiments": {
-      "baseUrl": "/Casamento"
-    },
+
     "name": "Casamento",
     "slug": "Casamento",
     "scheme": "Casamento",
